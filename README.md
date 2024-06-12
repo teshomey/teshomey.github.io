@@ -18,6 +18,9 @@
 ## Conference presentations
 - 08/10/2022 - MAER-Net Colloquium 2022, Kyoto University, Japan  
 - 28/10/2022 -  Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
-- 23/10/2021 - MAER-Net Colloquium 2021, University of Piraeus, Greece 
+- 23/10/2021 - MAER-Net Colloquium 2021, University of Piraeus, Greece
+## Scholarship Awards
+- Fully funded doctoral scholarship by Hasselt University (2020 - 2024)
+- Fully funded master scholarship (VLIR-UOS) (2017 - 2019)
    
    
