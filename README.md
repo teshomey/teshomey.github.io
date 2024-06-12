@@ -1,8 +1,8 @@
 ### Summary
 As a (bio)statistician passionate about uncovering data insights, I specialize in applying simple and advanced statistical techniques to address complex problems. With expertise in methods including regression analysis, survival analysis, categorical data analysis, meta-analysis, longitudinal data analysis, and machine learning techniques, I thrive in environments where data-driven decisions are important. Whether uncovering predictive factors in longitudinal studies or synthesizing evidence from multiple sources through meta-analysis, I am committed to delivering rigorous and reliable analyses that inform evidence-based strategies. Throughout my career and PhD work, I have also enhanced my skills in statistical analysis using industry-standard tools such as SAS and R.
 ### Education
-- PhD, Business Economics | Hasselt University, Belgium (_September 2024_)
-- MSc, Biostatistics | Hasselt University, Belgium (_September 2019_)
+- PhD, Business Economics | Hasselt University, Belgium (_Sept. 2024_)
+- MSc, Biostatistics | Hasselt University, Belgium (_Sept. 2019_)
 - MSc, Statistics | Addis Ababa University, Ethiopia (_July 2013_)
 - BSc, Statistics | Hawassa University, Ethiopia (_July 2009_)
 
