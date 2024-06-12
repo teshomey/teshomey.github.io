@@ -4,7 +4,7 @@
 - MSc in Statistics (2013), Addis Ababa University, Ethiopia
 - BSc in Statistics (2009), Hawassa University, Ethiopia
 
-### Work Experience
+### Work experience
 
 ### Publications (peer-reviewed and pre-print)
 1.  **Deressa, Teshome K.**, Stern, David and Vangronsveld, Jaco and Minx, Jan and Lizin, Sebastien and Malina, Robert and Bruns, Stephan B. 2023. “More than half of statistically significant research findings in the environmental sciences are actually not.” [doi](https://doi.org/10.32942/X24G6Z), revised and resubmitted at _Nature Ecology \& Evolution_.
