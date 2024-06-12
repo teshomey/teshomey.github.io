@@ -5,6 +5,8 @@
 - BSc, Statistics | Hawassa University, Ethiopia (_July 2009_)
 
 ### Work Experience
+- Lecturer | Haramaya University (_07/2013 - 09/2017_)
+- Graduate Assistant | Haramaya University (_09/2013 - 07/2013_) 
 
 ### Publications (peer-reviewed and pre-print)
 1.  **Deressa, Teshome K.**, Stern, David and Vangronsveld, Jaco and Minx, Jan and Lizin, Sebastien and Malina, Robert and Bruns, Stephan B. 2023. “More than half of statistically significant research findings in the environmental sciences are actually not.” [DOI](https://doi.org/10.32942/X24G6Z), revised and resubmitted at _Nature Ecology and Evolution_.
