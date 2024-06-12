@@ -11,7 +11,7 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 - Graduate Assistant | Haramaya University (_09/2013 - 07/2013_)
 
 ### Certifications
-- Base Programmer for SAS\textsuperscript{\tiny\textregistered} 9
+- Base Programmer for SAS 9
 
 ### Publications (peer-reviewed and pre-print)
 1.  **Deressa, Teshome K.** and Stern, David and Vangronsveld, Jaco and Minx, Jan and Lizin, Sebastien and Malina, Robert and Bruns, Stephan B. 2023. “More than half of statistically significant research findings in the environmental sciences are actually not.” [DOI](https://doi.org/10.32942/X24G6Z), revised and resubmitted in _Nature Ecology and Evolution_.
