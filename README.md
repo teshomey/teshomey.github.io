@@ -1,5 +1,5 @@
 ### Summary
-As a (bio)statistician passionate about uncovering data insights, I specialize in applying simple and advanced statistical techniques to address complex problems. With expertise in methods including regression analysis, survival analysis, categorical data analysis, meta-analysis, longitudinal data analysis, and machine learning techniques, I thrive in environments where data-driven decisions are important. Whether it's uncovering predictive factors in longitudinal studies or synthesizing evidence from multiple sources through meta-analysis, I am committed to delivering rigorous and reliable analyses that inform evidence-based strategies. Throughout my career and PhD work, I have also enhanced my skills in statistical analysis using industry-standard tools such as SAS and R.
+As a (bio)statistician passionate about uncovering data insights, I specialize in applying simple and advanced statistical techniques to address complex problems. With expertise in methods including regression analysis, survival analysis, categorical data analysis, meta-analysis, longitudinal data analysis, and machine learning techniques, I thrive in environments where data-driven decisions are important. Whether uncovering predictive factors in longitudinal studies or synthesizing evidence from multiple sources through meta-analysis, I am committed to delivering rigorous and reliable analyses that inform evidence-based strategies. Throughout my career and PhD work, I have also enhanced my skills in statistical analysis using industry-standard tools such as SAS and R.
 ### Education
 - PhD, Business Economics | Hasselt University, Belgium (_September 2024_)
 - MSc, Biostatistics | Hasselt University, Belgium (_September 2019_)
@@ -23,6 +23,7 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 - 08/10/2022 - MAER-Net Colloquium 2022, Kyoto University, Japan  
 - 28/10/2022 -  Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
 - 23/10/2021 - MAER-Net Colloquium 2021, University of Piraeus, Greece
+  
 ## Scholarship awards
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
 - Fully funded master scholarship | Hasselt University - VLIR-UOS (2017 - 2019)
