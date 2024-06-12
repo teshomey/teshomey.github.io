@@ -1,7 +1,6 @@
-# Data Analyst
-
 ## Education
+- PhD in Business Economics, Hasselt University
 
-### Work Experience
+## Work Experience
 
-#### Publications 
+### Publications 
