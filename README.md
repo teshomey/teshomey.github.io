@@ -12,4 +12,10 @@
 2. Bruns, Stephan B., **Deressa, Teshome K.**, Stanley, T.D., Doucouliagos, Chris, and Ioannidis, John P.A. 2024. “Estimating the extent of
 selective reporting: An application to economics.”  _Research Synthesis Methods_, 1-13, [doi](https://doi:10.1002/jrsm.1711).
 3.  Bartoš, František, Maier, Maximilian, Wagenmakers, Eric-Jan, Nippold, Franziska, Doucouliagos, Hristos, Ioannidis, John P. A., Otte, Willem M., Sladekova, Martina, **Deressa, Teshome K.**, Bruns, Stephan B., Fanelli, Daniele, and Stanley, T. D. 2024. “Footprint of publication selection bias on meta-analyses in medicine, environmental sciences, psychology, and economics.” _Research Synthesis Methods_, 1-12,  [doi](https://doi.org/10.1002/jrsm.1703).
+
+## Conference presentations
+- 08/10/2022 - MAER-Net Colloquium 2022, Kyoto University, Japan  
+- 28/10/2022 -  Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
+- 23/10/2021 - MAER-Net Colloquium 2021, University of Piraeus, Greece 
+   
    
