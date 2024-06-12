@@ -6,7 +6,7 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 - MSc, Statistics | Addis Ababa University, Ethiopia (_July 2013_)
 - BSc, Statistics | Hawassa University, Ethiopia (_July 2009_)
 
-### Work Experience
+### Work experience
 - Lecturer | Haramaya University (_07/2013 - 09/2017_)
 - Graduate Assistant | Haramaya University (_09/2013 - 07/2013_) 
 
