@@ -1,1 +1,7 @@
-# teshomey.github.io
+# Data Analayst
+
+## Education
+
+### Work Experience
+
+#### Publications 
