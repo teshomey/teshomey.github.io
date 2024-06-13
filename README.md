@@ -8,7 +8,7 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 
 ### Work experience
 - Lecturer | Haramaya University (_07/2013 - 09/2017_)
-- Graduate Assistant | Haramaya University (_09/2013 - 07/2013_)
+- Graduate Assistant | Haramaya University (_09/2009 - 07/2013_)
 
 ### Certifications
 - Base Programmer for SAS 9
