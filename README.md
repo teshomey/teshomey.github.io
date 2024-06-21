@@ -9,7 +9,7 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 ### Work experience
 - PhD researcher | Hasselt University (1/2020 - 9/2024)
 - Lecturer | Haramaya University (07/2013 - 09/2017)
-- Graduate Assistant | Haramaya University (09/2009 - 07/2013)
+- Graduate assistant | Haramaya University (09/2009 - 07/2013)
 
 ### Certifications
 - Base Programmer for SAS 9
