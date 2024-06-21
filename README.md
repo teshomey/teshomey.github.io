@@ -7,8 +7,9 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 - BSc, Statistics | Hawassa University, Ethiopia (_July 2009_)
 
 ### Work experience
-- Lecturer | Haramaya University (_07/2013 - 09/2017_)
-- Graduate Assistant | Haramaya University (_09/2009 - 07/2013_)
+- PhD researcher | Hasselt University (1/2020 - 9/2024)
+- Lecturer | Haramaya University (07/2013 - 09/2017)
+- Graduate Assistant | Haramaya University (09/2009 - 07/2013)
 
 ### Certifications
 - Base Programmer for SAS 9
