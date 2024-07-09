@@ -45,7 +45,7 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 - _LaTeX Document Preparation System Using WinEdt Software_ (18-20 June 2015), for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia
 
 ## Professional service (refereeing)
-_Journal Economic Survey_, _Journal of Health, Population and Nutrition_, _Journal of Human Ecology_
+_Journal of Economic Survey_, _Journal of Health, Population and Nutrition_, _Journal of Human Ecology_
 
 ## Scholarship awards
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
