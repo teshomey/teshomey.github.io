@@ -39,6 +39,7 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
    - _Applied Spatial Statistics_
    - _Time Series Analysis_
    - _Statistical Quality Control_
+     
 ## Professional service (refereeing)
 _Journal Economic Survey_, _Journal of Health, Population and Nutrition_, _Journal of Human Ecology_
 
