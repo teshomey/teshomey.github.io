@@ -40,9 +40,9 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
    - _Time Series Analysis_
    - _Statistical Quality Control_
      
-## Short training I delivered
-- **Analysis of Variance Models Using SAS** (25-26 June 2016), for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia
-- **LaTeX Document Preparation System Using WinEdt Software** (18-20 June 2015), for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia
+## Short training delivered
+- _Analysis of Variance Models Using SAS_ (25-26 June 2016), for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia
+- _LaTeX Document Preparation System Using WinEdt Software_ (18-20 June 2015), for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia
 
 ## Professional service (refereeing)
 _Journal Economic Survey_, _Journal of Health, Population and Nutrition_, _Journal of Human Ecology_
