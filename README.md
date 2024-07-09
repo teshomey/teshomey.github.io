@@ -27,7 +27,18 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 - 08/10/2022 - MAER-Net Colloquium 2022, Kyoto University, Japan  
 - 28/10/2022 -  Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
 - 23/10/2021 - MAER-Net Colloquium 2021, University of Piraeus, Greece
-  
+
+## Teaching and supervision
+- Co-supervised 4 undergraduate theses at Hasselt University (2020 - 2023)
+- Teaching member of the _Microeconomics_ course at Hasselt University, Belgium (2020 -- 2022)
+- Supported undergraduate and postgraduate students in statistical data analysis using R and SAS during my stay at Hasselt University and Haramaya University
+- Courses I taught at Haramaya University
+   - _Introduction to Statistics_
+   - _Introduction to Probability Theory_
+   - _Applied Spatial Statistics_
+   - _Time Series Analysis_
+   - _Statistical Quality Control_
+
 ## Scholarship awards
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
 - Fully funded master scholarship | Hasselt University - VLIR-UOS (2017 - 2019)
