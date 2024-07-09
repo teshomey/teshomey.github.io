@@ -31,7 +31,7 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 
 ## Teaching and supervision
 - Co-supervised 4 undergraduate theses at Hasselt University (2020 - 2023)
-- Teaching member of the _Microeconomics_ course at Hasselt University, Belgium (2020 -- 2022)
+- Teaching member of the _Microeconomics_ course at Hasselt University, Belgium (2020 - 2022)
 - Supported undergraduate and postgraduate students in statistical data analysis using R and SAS during my stay at Hasselt University and Haramaya University
 - Courses I taught at Haramaya University (2010 - 2017):
    - _Introduction to Statistics_
