@@ -38,6 +38,8 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
    - _Applied Spatial Statistics_
    - _Time Series Analysis_
    - _Statistical Quality Control_
+## Professional service (referring)
+_Journal Economic Survey_, _Journal of Health, Population and Nutrition, _Journal of Human Ecology_
 
 ## Scholarship awards
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
