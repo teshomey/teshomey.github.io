@@ -32,14 +32,14 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 - Co-supervised 4 undergraduate theses at Hasselt University (2020 - 2023)
 - Teaching member of the _Microeconomics_ course at Hasselt University, Belgium (2020 -- 2022)
 - Supported undergraduate and postgraduate students in statistical data analysis using R and SAS during my stay at Hasselt University and Haramaya University
-- Courses I taught at Haramaya University
+- Courses I taught at Haramaya University (2010 - 2017):
    - _Introduction to Statistics_
    - _Introduction to Probability Theory_
    - _Applied Spatial Statistics_
    - _Time Series Analysis_
    - _Statistical Quality Control_
-## Professional service (referring)
-_Journal Economic Survey_, _Journal of Health, Population and Nutrition, _Journal of Human Ecology_
+## Professional service (refereeing)
+_Journal Economic Survey_, _Journal of Health, Population and Nutrition_, _Journal of Human Ecology_
 
 ## Scholarship awards
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
