@@ -2,11 +2,11 @@
 As a (bio)statistician passionate about uncovering data insights, I specialize in applying simple and advanced statistical techniques to address real-world problems. With expertise in methods including regression analysis, survival analysis, categorical data analysis, meta-analysis, longitudinal data analysis, Bayesian analysis, and machine learning techniques, I thrive in environments where data-driven decisions are important. Whether uncovering predictive factors in longitudinal studies or synthesizing evidence from multiple sources through meta-analysis, I'm committed to delivering rigorous and reliable analyses that inform evidence-based strategies. Throughout my career and Ph.D. work, I have also enhanced my skills in statistical analysis using industry-standard tools such as SAS, SPSS, R, and Python.
 ### Education
 - PhD, Business Economics | Hasselt University, Belgium (_Sept. 2024_)
-  - Dissertation: _Meta-research in environmental science and economics_
-  - Promoter: Prof. dr. Stephan B. Bruns (www.stephanbbruns.de) and co-promoter: Prof. dr. Robert Malina
+  %- Dissertation: _Meta-research in environmental science and economics_
+  %- Promoter: Prof. dr. Stephan B. Bruns (www.stephanbbruns.de) and co-promoter: Prof. dr. Robert Malina
 - MSc, Biostatistics | Hasselt University, Belgium (_Sept. 2019_)
-  - Thesis: _Co-resistance patterns in antimicrobial resistance data and their influence on commonly used models_
-  - Promoter: Dr. Stijn Jaspers
+  %- Thesis: _Co-resistance patterns in antimicrobial resistance data and their influence on commonly used models_
+  %- Promoter: Dr. Stijn Jaspers
 - MSc, Statistics | Addis Ababa University, Ethiopia (_Jul. 2013_)
 - BSc, Statistics | Hawassa University, Ethiopia (_Jul. 2009_)
 
