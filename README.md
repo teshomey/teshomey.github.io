@@ -10,8 +10,8 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 - PhD researcher | Hasselt University (1/2020 - 9/2024)
 - Assistant Professor of Statistics | Haramaya University (02/2017 - 09/2017)
 - Lecturer | Haramaya University (07/2013 - 02/2017)
-- Assistant lecturer | Haramaya University (09/2011 - 07/2013)
-- Graduate assistant | Haramaya University (09/2009 - 09/2011)
+- Assistant Lecturer | Haramaya University (09/2011 - 07/2013)
+- Graduate Assistant | Haramaya University (09/2009 - 09/2011)
 
 ### Certifications
 - Base Programmer for SAS 9
