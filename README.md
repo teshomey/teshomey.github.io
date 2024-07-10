@@ -3,7 +3,7 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 ### Education
 - PhD, Business Economics | Hasselt University, Belgium (_Sept. 2024_)
   - Dissertation: _Meta-research in environmental science and economics_
-  - Supervisor: Prof. dr. Stephan B. Bruns (\url{www.stephanbbruns.de})
+  - Supervisor: Prof. dr. Stephan B. Bruns (www.stephanbbruns.de)
 - MSc, Biostatistics | Hasselt University, Belgium (_Sept. 2019_)
 - MSc, Statistics | Addis Ababa University, Ethiopia (_Jul. 2013_)
 - BSc, Statistics | Hawassa University, Ethiopia (_Jul. 2009_)
