@@ -3,7 +3,7 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 ### Education
 - PhD, Business Economics | Hasselt University, Belgium (_Sept. 2024_)
   - Dissertation: _Meta-research in environmental science and economics_
-  - Promoter: Prof. dr. Stephan B. Bruns (www.stephanbbruns.de) and Co-promoter: Prof. dr. Robert Malina
+  - Promoter: Prof. dr. Stephan B. Bruns (www.stephanbbruns.de) and co-promoter: Prof. dr. Robert Malina
 - MSc, Biostatistics | Hasselt University, Belgium (_Sept. 2019_)
   - Thesis: _Co-resistance patterns in antimicrobial resistance data and their influence on commonly used models_
   - Promoter: Dr. Stijn Jaspers
