@@ -8,7 +8,7 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 
 ### Work experience
 - PhD researcher | Hasselt University (1/2020 - 9/2024)
-- Statistical Expert in the Educational Management Information System (EMIS) unit | Haramaya University (12/2016 - 09/2017)
+- Statistical Expert | Haramaya University (12/2016 - 09/2017)
 - Assistant Professor of Statistics | Haramaya University (2/2017 - 9/2017)
 - Lecturer | Haramaya University (7/2013 - 2/2017)
 - Assistant Lecturer | Haramaya University (9/2011 - 7/2013)
