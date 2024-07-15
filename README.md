@@ -19,7 +19,7 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 - Analyzed over 60,000 samples collected over 5-years of PhD research using R
 - Proficient in statistical software such as R, SAS, SPSS, SQL, Python (basics), JMP (basics)
 - Proficient in preparing reports using MS Office (Word, PPT, Excel), LaTeX, and R Markdown
-- Strong knowledge of statistical concepts models, including regression analysis, systematic literature review, meta-analysis, longitudinal data analysis, survival analysis, Bayesian analysis, machine learning techniques, and sample size calculation, to mention a few
+- Strong knowledge of statistical concepts and models, including regression analysis, systematic literature review, meta-analysis, longitudinal data analysis, survival analysis, Bayesian analysis, machine learning techniques, and sample size calculation, to mention a few
 - Ability to communicate statistical findings to non-technical stakeholders
 
 ### Certifications
