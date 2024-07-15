@@ -20,7 +20,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 - Proficient in statistical software such as R, SAS, SPSS, SQL, Python (basics), JMP (basics)
 - Proficient in preparing reports using MS Office (Word, PPT, Excel), LaTeX, and R Markdown
 - Strong knowledge of statistical concepts and models, including regression analysis, systematic literature review, meta-analysis, longitudinal data analysis, survival analysis, Bayesian analysis, machine learning techniques, and sample size calculation, to mention a few
-- Ability to communicate statistical findings to non-technical stakeholders
+- Ability to communicate statistical results to non-technical stakeholders
 
 ### Certifications
 - Base Programmer for SAS 9
