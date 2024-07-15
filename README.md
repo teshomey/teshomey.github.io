@@ -40,7 +40,7 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 - 23/10/2021 - MAER-Net Colloquium 2021, University of Piraeus, Greece
 
 ## Teaching and supervision
-- Co-supervised 4 undergraduate theses at Hasselt University (2020 - 2023)
+- Co-supervised 5 undergraduate theses at Hasselt University (2020 - 2023)
 - Teaching member of the _Microeconomics_ course at Hasselt University, Belgium (2020 - 2022)
 - Supported undergraduate and postgraduate students on how to analyze data using R and SAS during my stay at Hasselt University and Haramaya University
 - Courses I taught at Haramaya University (2010 - 2017):
@@ -54,11 +54,13 @@ As a (bio)statistician passionate about uncovering data insights, I specialize i
 - _Analysis of Variance Models Using SAS_ (25-26 June 2016), for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia
 - _LaTeX Document Preparation System Using WinEdt Software_ (18-20 June 2015), for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia
 
-## Professional service (refereeing)
-_Journal of Economic Survey_, _Journal of Health, Population and Nutrition_, _Journal of Human Ecology_
-
 ## Scholarship awards
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
 - Fully funded master scholarship | Hasselt University - VLIR-UOS (2017 - 2019)
+
+## Professional service (refereeing)
+_Journal of Economic Survey_, _Journal of Health, Population and Nutrition_, _Journal of Human Ecology_
+
+
    
    
