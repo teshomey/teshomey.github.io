@@ -22,7 +22,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 - Ability to communicate statistical results to non-technical stakeholders
 
 ### Certifications
-- Base Programmer for SAS 9
+- Certified SAS Base Programmer for SAS 9
 
 ### Publications
 1.  **Deressa, Teshome K.** and Stern, David and Vangronsveld, Jaco and Minx, Jan and Lizin, Sebastien and Malina, Robert and Bruns, Stephan B. 2023. “More than half of statistically significant research findings in the environmental sciences are actually not.” Preprint [DOI](https://doi.org/10.32942/X24G6Z), revised and resubmitted in _Nature Ecology and Evolution_.
