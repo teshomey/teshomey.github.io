@@ -7,7 +7,6 @@ As a statistician passionate about uncovering data insights, I specialize in app
 - BSc, Statistics | Hawassa University, Ethiopia (_Jul. 2009_)
 
 ### Work experience
-- PhD researcher | Hasselt University (1/2020 - 9/2024)
 - Statistical Expert | Haramaya University (12/2016 - 09/2017)
 - Assistant Professor of Statistics | Haramaya University (2/2017 - 9/2017)
 - Lecturer | Haramaya University (7/2013 - 2/2017)
