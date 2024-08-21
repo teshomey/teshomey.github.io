@@ -22,7 +22,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 - Ability to communicate statistical results to non-technical stakeholders
 
 ### Certifications
-- Certified SAS Base Programmer for SAS 9
+- SAS Certified Base Programmer for SAS 9
 
 ### Publications
 1.  **Deressa, Teshome K.** and Stern, David and Vangronsveld, Jaco and Minx, Jan and Lizin, Sebastien and Malina, Robert and Bruns, Stephan B. 2023. “More than half of statistically significant research findings in the environmental sciences are actually not.” Preprint [DOI](https://doi.org/10.32942/X24G6Z), revised and resubmitted in _Nature Ecology and Evolution_.
@@ -39,7 +39,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 - 23/10/2021 - MAER-Net Colloquium 2021, University of Piraeus, Greece
 
 ## Teaching and supervision
-- Co-supervised 5 undergraduate theses at Hasselt University (2020 - 2023)
+- Co-supervised 5 master theses at Hasselt University (2020 - 2023)
 - Teaching member of the _Microeconomics_ course at Hasselt University, Belgium (2020 - 2022)
 - Supported undergraduate and postgraduate students on how to analyze data using R and SAS during my stay at Hasselt University and Haramaya University
 - Courses I taught at Haramaya University (2010 - 2017):
