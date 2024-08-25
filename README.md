@@ -22,7 +22,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 - Ability to communicate statistical results to non-technical stakeholders
 
 ### Certifications
-- SAS Certified Base Programmer for SAS 9 (Certificate verification link: https://www.certmetrics.com/SAS/public/verification.aspx and Certificate verification number: 5V3LSQVK2M1115W2).
+- SAS Certified Base Programmer for SAS 9 (Certificate verification link: [www.sas.com](https://www.certmetrics.com/SAS/public/verification.aspx) with certificate verification number: 5V3LSQVK2M1115W2).
 
 ### Publications
 1.  **Deressa, Teshome K.** and Stern, David and Vangronsveld, Jaco and Minx, Jan and Lizin, Sebastien and Malina, Robert and Bruns, Stephan B. 2023. “More than half of statistically significant research findings in the environmental sciences are actually not.” Preprint [DOI](https://doi.org/10.32942/X24G6Z), revised and resubmitted in _Nature Ecology and Evolution_.
