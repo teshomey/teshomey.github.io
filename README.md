@@ -58,7 +58,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 - Fully funded master scholarship | Hasselt University - VLIR-UOS (2017 - 2019)
 
 ## Professional service (refereeing)
-_Journal of Economic Survey_, _Journal of Health, Population and Nutrition_, _Journal of Human Ecology_
+_Journal of Health, Population and Nutrition_, _Journal of Economic Survey_, _Journal of Human Ecology_
 
 
    
