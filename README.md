@@ -18,7 +18,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 - Analyzed over 60,000 samples collected over 5-years of PhD research using R
 - Proficient in statistical software such as R, SAS, SPSS, SQL, Python (basics), JMP (basics)
 - Proficient in preparing reports using MS Office (Word, PPT, Excel), LaTeX, and R Markdown
-- Strong knowledge of statistical concepts and models, including regression analysis, meta-analysis, longitudinal data analysis, survival analysis, Bayesian analysis, machine learning techniques, power analysis, and sample size calculation, to mention a few
+#- Strong knowledge of statistical concepts and models, including regression analysis, meta-analysis, longitudinal data analysis, survival analysis, Bayesian analysis, machine learning #techniques, power analysis, and sample size calculation, to mention a few
 - Ability to communicate statistical results to non-technical stakeholders
 
 ### Certifications
