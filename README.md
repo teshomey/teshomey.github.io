@@ -34,7 +34,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 
 ## Conference presentations
 - 08/10/2022 - MAER-Net Colloquium 2022, Kyoto University, Japan  
-- 28/10/2022 -  Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
+- 28/09/2022 -  Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
 - 23/10/2021 - MAER-Net Colloquium 2021, University of Piraeus, Greece
 
 ## Teaching and supervision
