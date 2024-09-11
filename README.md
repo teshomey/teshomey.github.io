@@ -16,7 +16,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 ## Skills
 - Experience in cleaning large datasets, exploration, and visualization using R and Power BI
 - Analyzed over 60,000 samples collected over 5-years of PhD research using R
-- Proficient in statistical software such as R, SAS, SPSS, SQL, Python (basics), JMP (basics)
+- Proficient in statistical software such as R, Python, SAS, SPSS, SQL, JMP
 - Proficient in preparing reports using MS Office (Word, PPT, Excel), LaTeX, and R Markdown
 - Ability to communicate statistical results to non-technical stakeholders
 
