@@ -42,11 +42,12 @@ As a statistician passionate about uncovering data insights, I specialize in app
 - Teaching member of the _Microeconomics_ course at Hasselt University, Belgium (2020 - 2022)
 - Supported undergraduate and postgraduate students on how to analyze data using R and SAS during my stay at Hasselt University and Haramaya University
 - Courses I taught at Haramaya University (2010 - 2017):
-   - _Introduction to Statistics_
-   - _Introduction to Probability Theory_
    - _Applied Spatial Statistics_
    - _Time Series Analysis_
    - _Statistical Quality Control_
+   - _Introduction to Statistics_
+   - _Introduction to Probability Theory_
+
      
 ## Short training delivered
 - _Analysis of Variance Models Using SAS_ (25-26 June 2016), for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia
