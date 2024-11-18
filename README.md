@@ -28,13 +28,13 @@ As a statistician passionate about uncovering data insights, I specialize in app
 - SAS Certified Base Programmer for SAS 9: Certificate verification link: [www.sas.com](https://www.certmetrics.com/SAS/public/verification.aspx) with certificate verification number: 5V3LSQVK2M1115W2.
 
 ### Publications
-1.  **Deressa, Teshome K.** and Stern, David and Vangronsveld, Jaco and Minx, Jan and Lizin, Sebastien and Malina, Robert and Bruns, Stephan B. 2023. “More than half of statistically significant research findings in the environmental sciences are actually not.” Preprint [DOI](https://doi.org/10.32942/X24G6Z), revised and resubmitted in _Nature Ecology and Evolution_.
+1.  **Deressa, T.K.** and Stern, David and Vangronsveld, Jaco and Minx, Jan and Lizin, Sebastien and Malina, Robert and Bruns, Stephan B. 2023. “More than half of statistically significant research findings in the environmental sciences are actually not.” Preprint [DOI](https://doi.org/10.32942/X24G6Z), revised and resubmitted in _Nature Ecology and Evolution_.
       - Media attention: **De Morgen** in Dutch - [www.demorgen.be](https://www.demorgen.be/nieuws/meer-dan-de-helft-van-het-onderzoek-in-de-milieuwetenschappen-deugt-niet-studies-beweren-dingen-die-onvoldoende-onderbouwd-zijn~bca6f9d4/) and **Le Point** in French - [www.lepoint.fr](https://www.lepoint.fr/environnement/sciences-de-l-environnement-donnees-robustes-ou-conjectures-incertaines-31-01-2023-2506970_1927.php#11).
-2. Bruns, Stephan B. and **Deressa, Teshome K.** and Stanley, T.D. and Doucouliagos, Chris, and Ioannidis, John P.A. 2024. “Estimating the extent of selective reporting: An application to economics.”  _Research Synthesis Methods_, 1-13, [DOI](https://doi:10.1002/jrsm.1711).
-3.  Bartoš, František, Maier, Maximilian, Wagenmakers, Eric-Jan, Nippold, Franziska, Doucouliagos, Hristos, Ioannidis, John P. A., Otte, Willem M., Sladekova, Martina, **Deressa, Teshome K.** and Bruns, Stephan B. and Fanelli, Daniele, and Stanley, T. D. 2024. “Footprint of publication selection bias on meta-analyses in medicine, environmental sciences, psychology, and economics.” _Research Synthesis Methods_, 1-12, [DOI](https://doi.org/10.1002/jrsm.1703).
-4.  Temesgen, Aboma and Genati, Kasahun T. and Bekalo, Daniel B., and **Deressa, Teshome K.** 2020. “Spatiotemporal dynamics of tuberculosis in East Hararge Zone, Oromiya Region, Ethiopia.” _Spatial Information Research_ 28 (6): 623–633, [DOI](https://doi.org/10.1007/s41324-020-00319-9).
-5.  Temesgen, Aboma and **Deressa, Teshome K.** 2016. “Joint modeling of longitudinal CD4 count and weight measurements of HIV/TB co-infected patients at Jimma University Specialized Hospital.” _Annals of Data Science_ 3 (3): 321–338, [DOI](https://doi.org/10.1007/s40745-016-0085-9).
-6.  Geneti, Kasahun T. and **Deressa, Teshome K.** 2014. “Correlates of under-five child mortality in Ethiopia: A logistic regression analysis.” _Advances and Applications Statistics_ 39 (1): 61.
+2. Bruns, Stephan B. and **Deressa, T.K.** and Stanley, T.D. and Doucouliagos, Chris, and Ioannidis, John P.A. 2024. “Estimating the extent of selective reporting: An application to economics.”  _Research Synthesis Methods_, 1-13, [DOI](https://doi:10.1002/jrsm.1711).
+3.  Bartoš, František, Maier, Maximilian, Wagenmakers, Eric-Jan, Nippold, Franziska, Doucouliagos, Hristos, Ioannidis, John P. A., Otte, Willem M., Sladekova, Martina, **Deressa, T.K.** and Bruns, Stephan B. and Fanelli, Daniele, and Stanley, T. D. 2024. “Footprint of publication selection bias on meta-analyses in medicine, environmental sciences, psychology, and economics.” _Research Synthesis Methods_, 1-12, [DOI](https://doi.org/10.1002/jrsm.1703).
+4.  Temesgen, Aboma and Genati, Kasahun T. and Bekalo, Daniel B., and **Deressa, T.K.** 2020. “Spatiotemporal dynamics of tuberculosis in East Hararge Zone, Oromiya Region, Ethiopia.” _Spatial Information Research_ 28 (6): 623–633, [DOI](https://doi.org/10.1007/s41324-020-00319-9).
+5.  Temesgen, Aboma and **Deressa, T.K.** 2016. “Joint modeling of longitudinal CD4 count and weight measurements of HIV/TB co-infected patients at Jimma University Specialized Hospital.” _Annals of Data Science_ 3 (3): 321–338, [DOI](https://doi.org/10.1007/s40745-016-0085-9).
+6.  Geneti, Kasahun T. and **Deressa, T.K.** 2014. “Correlates of under-five child mortality in Ethiopia: A logistic regression analysis.” _Advances and Applications Statistics_ 39 (1): 61.
 
 ## Conference presentations
 - 08/10/2022 - MAER-Net Colloquium 2022, Kyoto University, Japan  
@@ -42,7 +42,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 - 23/10/2021 - MAER-Net Colloquium 2021, University of Piraeus, Greece
 
 ## Teaching and supervision
-- Co-supervised 5 master theses at Hasselt University (2020 - 2023)
+- Co-supervised 6 master theses at Hasselt University (2020 - 2023)
 - Teaching member of the _Microeconomics_ course at Hasselt University, Belgium (2020 - 2022)
 - Supported undergraduate and postgraduate students on how to analyze data using R and SAS during my stay at Hasselt University and Haramaya University
 - Courses I taught at Haramaya University (2010 - 2017):
