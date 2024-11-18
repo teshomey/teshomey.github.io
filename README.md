@@ -42,7 +42,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 - 23/10/2021 - MAER-Net Colloquium 2021, University of Piraeus, Greece
 
 ## Teaching and supervision
-- Co-supervised 6 master theses at Hasselt University (2020 - 2023)
+- Supervised 6 master theses at Hasselt University (2020 - 2023)
 - Teaching member of the _Microeconomics_ course at Hasselt University, Belgium (2020 - 2022)
 - Supported undergraduate and postgraduate students on how to analyze data using R and SAS during my stay at Hasselt University and Haramaya University
 - Courses I taught at Haramaya University (2010 - 2017):
