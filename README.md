@@ -9,7 +9,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 ### Work experience
 - Researcher | Hasselt University (10/2024 - present)
 - PhD Researcher | Hasselt University (1/2020 - 9/2024)
-- Statistical Expert | Haramaya University (12/2016 - 09/2017)
+- Statistical Expert | Haramaya University (12/2016 - 9/2017)
 - Assistant Professor of Statistics | Haramaya University (2/2017 - 9/2017)
 - Lecturer | Haramaya University (7/2013 - 2/2017)
 - Assistant Lecturer | Haramaya University (9/2011 - 7/2013)
