@@ -13,7 +13,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 
 ### Education
 - PhD, Economics | Hasselt University, Belgium (Sept. 2024)
-- MSc, Statistics (major: Biostatistics) | Hasselt University, Belgium (Sept. 2019)
+- MSc, Biostatistics | Hasselt University, Belgium (Sept. 2019)
 - MSc, Statistics | Addis Ababa University, Ethiopia (Jul. 2013)
 - BSc, Statistics | Hawassa University, Ethiopia (Jul. 2009)
 
