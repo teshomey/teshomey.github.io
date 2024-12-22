@@ -28,7 +28,7 @@ As a statistician passionate about uncovering data insights, I specialize in app
 - Microsoft Power BI Desktop for Business Intelligence: [www.udemy.com](https://www.udemy.com/certificate/UC-6926b889-4cf5-473f-8833-4d6c21aa8ee2/)
 - Data Analysis with Python: [www.courses.edx.org](https://courses.edx.org/certificates/20f61a4ccdf14243b945d66167004a2a).
 - Machine Algorithm with Python: [www.coursesm.edx.org](https://courses.edx.org/certificates/33e316ac4c064e0ab1aa42b74b750564).
-- SAS Certified Base Programmer for SAS 9: Certificate verification link: [www.sas.com](https://www.certmetrics.com/SAS/public/verification.aspx) with certificate verification number: 5V3LSQVK2M1115W2.
+- SAS Certified Base Programmer for SAS 9: [www.sas.com](https://www.certmetrics.com/SAS/public/verification.aspx) with verification number: 5V3LSQVK2M1115W2.
 
 ### Publications
 1.  **Deressa, T.K.** and Stern, David and Vangronsveld, Jaco and Minx, Jan and Lizin, Sebastien and Malina, Robert and Bruns, Stephan B. 2023. “More than half of statistically significant research findings in the environmental sciences are actually not.” Preprint [DOI](https://doi.org/10.32942/X24G6Z), revised and resubmitted in _Nature Ecology and Evolution_.
