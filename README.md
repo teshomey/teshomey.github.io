@@ -1,19 +1,21 @@
 ### Summary
 As a statistician passionate about uncovering data insights, I specialize in applying simple and advanced statistical methods to address real-world problems. With expertise in methods including regression analysis, survival analysis, meta-analysis, longitudinal data analysis, Bayesian analysis, sample size determination, power analysis, and machine learning techniques, I thrive in environments where data-driven decisions are essential. I am committed to delivering rigorous and reliable analyses that inform evidence-based strategies. Throughout my career and PhD work, I have also enhanced my skills in statistical analysis using industry-standard tools such as SAS, R, Python, SPSS, and Power BI.
-### Education
-- PhD, Economics | Hasselt University, Belgium (Sept. 2024)
-- MSc, Biostatistics | Hasselt University, Belgium (Sept. 2019)
-- MSc, Statistics | Addis Ababa University, Ethiopia (Jul. 2013)
-- BSc, Statistics | Hawassa University, Ethiopia (Jul. 2009)
 
-### Work experience
-- Researcher | Hasselt University (10/2024 - present)
+### Experience
+- Data Curator and Analyst | FORRT (Freelancer)
+- Postdoctoral Researcher | Hasselt University (10/2024 - Present)
 - PhD Researcher | Hasselt University (1/2020 - 9/2024)
 - Statistical Expert | Haramaya University (12/2016 - 9/2017)
 - Assistant Professor of Statistics | Haramaya University (2/2017 - 9/2017)
 - Lecturer | Haramaya University (7/2013 - 2/2017)
 - Assistant Lecturer | Haramaya University (9/2011 - 7/2013)
 - Graduate Assistant | Haramaya University (9/2009 - 9/2011)
+
+### Education
+- PhD, Economics | Hasselt University, Belgium (Sept. 2024)
+- MSc, Statistics (major: Biostatistics) | Hasselt University, Belgium (Sept. 2019)
+- MSc, Statistics | Addis Ababa University, Ethiopia (Jul. 2013)
+- BSc, Statistics | Hawassa University, Ethiopia (Jul. 2009)
 
 ## Skills
 - Experience in cleaning large datasets, exploration, and visualization using R and Power BI
