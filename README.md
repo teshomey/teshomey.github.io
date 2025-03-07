@@ -2,7 +2,7 @@
 As a statistician passionate about uncovering data insights, I specialize in applying statistical methods to address real-world problems. With expertise in methods including regression analysis, survival analysis, meta-analysis, longitudinal data analysis, Bayesian analysis, sample size determination, power analysis, and machine learning techniques, I thrive in environments where data-driven decisions are essential. I am committed to delivering rigorous and reliable analyses that inform evidence-based strategies. Throughout my career and PhD work, I have also enhanced my skills in statistical analysis using industry-standard tools such as SAS, R, Python, SPSS, and Power BI.
 
 ### Experience
-- Data Curator and Analyst | FORRT (Freelancer)
+- Data Curator, Validator and Analyst | FORRT, Freelancer (11/2024 - Present)
 - Postdoctoral Researcher | Hasselt University (10/2024 - Present)
 - PhD Researcher | Hasselt University (1/2020 - 9/2024)
 - Statistical Expert | Haramaya University (12/2016 - 9/2017)
