@@ -1,5 +1,5 @@
 ### Summary
-As a statistician passionate about uncovering data insights, I specialize in applying statistical methods to address real-world problems. With expertise in methods including regression analysis, survival analysis, meta-analysis, longitudinal data analysis, Bayesian analysis, sample size determination, power analysis, and machine learning techniques, I thrive in environments where data-driven decisions are essential. I am committed to delivering rigorous and reliable analyses that inform evidence-based strategies. Throughout my career and PhD work, I have also enhanced my skills in statistical analysis using industry-standard tools such as SAS, R, Python, SPSS, and Power BI.
+Expert in statistical and econometric modeling, including Generalized Linear Models (GLMs), spatial analyses, survival analyses, machine learning, systematic reviews, and meta-analyses. Experienced in driving actionable insights from large datasets using industry-standard tools such as R, Python, and SAS. Proficient in data visualization tools like Power BI to communicate findings effectively to non-technical stakeholders.
 
 ### Experience
 - Data Curator, Validator and Analyst | FORRT, Freelancer (11/2024 - Present)
