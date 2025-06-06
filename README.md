@@ -2,7 +2,8 @@
 Expert in statistical and econometric modeling, including Generalized Linear Models (GLMs), spatial analyses, survival analyses, machine learning, systematic reviews, and meta-analyses. Experienced in driving actionable insights from large datasets using industry-standard tools such as R, Python, and SAS. Proficient in data visualization tools like Power BI to communicate findings effectively to non-technical stakeholders.
 
 ### Experience
-- Data Curator, Validator and Analyst | FORRT, Freelancer (11/2024 - Present)
+- Researcher | University of Coimbra, (6/2025 - present)
+- Data Curator, Validator and Analyst | FORRT, Freelancer (11/2024 - present)
 - Postdoctoral Researcher | Hasselt University (10/2024 - Present)
 - PhD Researcher | Hasselt University (1/2020 - 9/2024)
 - Statistical Expert | Haramaya University (12/2016 - 9/2017)
