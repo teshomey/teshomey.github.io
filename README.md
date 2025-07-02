@@ -9,8 +9,7 @@ Expert in statistical and econometric modeling, including Generalized Linear Mod
 - Statistical Expert | Haramaya University (12/2016 - 9/2017)
 - Assistant Professor of Statistics | Haramaya University (2/2017 - 9/2017)
 - Lecturer | Haramaya University (7/2013 - 2/2017)
-- Assistant Lecturer | Haramaya University (9/2011 - 7/2013)
-- Graduate Assistant | Haramaya University (9/2009 - 9/2011)
+- Graduate Assistant | Haramaya University (9/2009 - 7/2013)
 
 ### Education
 - PhD, Economics | Hasselt University, Belgium (Sept. 2024)
