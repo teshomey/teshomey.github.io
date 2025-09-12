@@ -12,10 +12,10 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 - Graduate Assistant | Haramaya University (9/2009 - 7/2013)
 
 ### Education
-- PhD, Economics | Hasselt University, Belgium (Sept. 2024)
-- MSc, Biostatistics | Hasselt University, Belgium (Sept. 2019)
-- MSc, Statistics | Addis Ababa University, Ethiopia (Jul. 2013)
-- BSc, Statistics | Hawassa University, Ethiopia (Jul. 2009)
+- PhD, Economics | Hasselt University, Belgium 
+- MSc, Biostatistics | Hasselt University, Belgium 
+- MSc, Statistics | Addis Ababa University, Ethiopia 
+- BSc, Statistics | Hawassa University, Ethiopia
 
 ## Skills
 - Experience in cleaning large datasets, exploration, and visualization using R and Power BI
