@@ -4,7 +4,7 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 ### Experience
 - Postdoc Researcher | University of Coimbra, (6/2025 - present)
 - Data Curator, Validator and Analyst | FORRT, Freelancer (11/2024 - present)
-- Postdoc Researcher | Hasselt University (10/2024 - Present)
+- Postdoc Researcher | Hasselt University (10/2024 - 05/2025)
 - PhD Researcher | Hasselt University (1/2020 - 9/2024)
 - Statistical Expert | Haramaya University (12/2016 - 9/2017)
 - Assistant Professor of Statistics | Haramaya University (2/2017 - 9/2017)
