@@ -17,7 +17,7 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 - MSc, Statistics | Addis Ababa University, Ethiopia 
 - BSc, Statistics | Hawassa University, Ethiopia
 
-## Grants and Funding 
+### Grants and Funding 
 - 2016-2017: **Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia** — Principal Investigator, Haramaya University (70,000 ETB)
   
 ### Publications
@@ -29,7 +29,7 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 5.  Temesgen, Aboma and **Deressa, T.K.** 2016. “Joint modeling of longitudinal CD4 count and weight measurements of HIV/TB co-infected patients at Jimma University Specialized Hospital.” _Ann  Data Sc._ 3 (3): 321–338, [DOI](https://doi.org/10.1007/s40745-016-0085-9).
 6.  Geneti, Kasahun T. and **Deressa, T.K.** 2014. “Correlates of under-five child mortality in Ethiopia: A logistic regression analysis.” _Adv. App. Stat._ 39 (1): 61.
 
-## Conference Presentations
+### Conference Presentations
 - 08/10/2022: MAER-Net Colloquium 2022, Kyoto University, Japan  
 - 28/09/2022:  Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
 - 23/10/2021: MAER-Net Colloquium 2021, University of Piraeus, Greece
@@ -40,13 +40,13 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 - Machine Learning with Python: [www.coursesm.edx.org](https://courses.edx.org/certificates/33e316ac4c064e0ab1aa42b74b750564).
 - SAS Certified Base Programmer for SAS 9: [www.sas.com](https://www.certmetrics.com/SAS/public/verification.aspx) with verification number: 5V3LSQVK2M1115W2.
 
-## Training Delivered
+### Training Delivered
 - _Machine Learning with Applications in Python_ for Oromia Health Bureau staff (Ethiopia), remote, Oct 11, 2025.
 - _A Gentle Introduction to Python_ for Oromia Health Bureau staff (Ethiopia), remote, Sept 13, 2025.
 - _Analysis of Variance Models using SAS_ (25-26 June 2016), for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia
 - _LaTeX Document Preparation System Using WinEdt Software_ (18-20 June 2015), for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia
 
-## Teaching and Supervision
+### Teaching and Supervision
 - Supervised 6 master theses at Hasselt University (2020 - 2023)
 - Teaching member of the _Microeconomics_ course at Hasselt University, Belgium (2020 - 2022)
 - Supported undergraduate and postgraduate students on how to analyze data using R and SAS during my stay at Hasselt University and Haramaya University
@@ -57,11 +57,11 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
    - _Introduction to Statistics_
    - _Introduction to Probability Theory_
 
-## Scholarship Awards
+### Scholarship Awards
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
 - Fully funded master scholarship | Hasselt University - VLIR-UOS (2017 - 2019)
 
-## Professional Service
+### Professional Service
 _BMC Infectious Diseases_, _Journal of Health, Population and Nutrition_, _Journal of Economic Survey_, _Journal of Human Ecology_
 
 
