@@ -18,7 +18,7 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 - BSc, Statistics | Hawassa University, Ethiopia
 
 ### Grants and Funding 
-- 2016-2017: **Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia** — Principal Investigator, Haramaya University (70,000 ETB)
+- 2016-2017: _Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia_ — Principal Investigator, Haramaya University (70,000 ETB)
   
 ### Publications
 1.  **Deressa, T.K.** and Stern, David and Vangronsveld, Jaco and Minx, Jan and Lizin, Sebastien and Malina, Robert and Bruns, Stephan B. 2023. “More than half of statistically significant research findings in the environmental sciences are actually not.” Preprint [DOI](https://doi.org/10.32942/X24G6Z).
