@@ -58,6 +58,9 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
 - Fully funded master scholarship | Hasselt University - VLIR-UOS (2017 - 2019)
 
+## Funding 
+- 2016 - 2017 Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia. 70,000 ETB
+
 ## Professional Service
 _BMC Infectious Diseases_, _Journal of Health, Population and Nutrition_, _Journal of Economic Survey_, _Journal of Human Ecology_
 
