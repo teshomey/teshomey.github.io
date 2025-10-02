@@ -44,6 +44,12 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 - 28/09/2022 -  Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
 - 23/10/2021 - MAER-Net Colloquium 2021, University of Piraeus, Greece
 
+## Training delivered
+- _Machine Learning with Applications in Python_ for Oromia Health Bureau staff in Ethiopia, remote, Oct 11, 2025.
+- _A Gentle Introduction to Python_ for Oromia Health Bureau staff in Ethiopia, remote, Sept 13, 2025.
+- _Analysis of Variance Models using SAS_ (25-26 June 2016), for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia
+- _LaTeX Document Preparation System Using WinEdt Software_ (18-20 June 2015), for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia
+
 ## Teaching and supervision
 - Supervised 6 master theses at Hasselt University (2020 - 2023)
 - Teaching member of the _Microeconomics_ course at Hasselt University, Belgium (2020 - 2022)
@@ -54,11 +60,6 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
    - _Statistical Quality Control_
    - _Introduction to Statistics_
    - _Introduction to Probability Theory_
-
-     
-## Short training delivered
-- _Analysis of Variance Models using SAS_ (25-26 June 2016), for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia
-- _LaTeX Document Preparation System Using WinEdt Software_ (18-20 June 2015), for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia
 
 ## Scholarship awards
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
