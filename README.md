@@ -2,7 +2,7 @@
 Expert in statistical modeling, including survival analyses, Bayesian analyses, time series analyses, machine learning, systematic reviews, (network) meta-analyses, and power and sample size calculations. Experienced in driving actionable insights from large datasets using industry-standard tools such as R, Python, and SAS. Proficient in data visualization tools like Power BI to communicate findings effectively to non-technical stakeholders.
 
 ### Experience
-- Postdoctoral Researcher | University of Coimbra, (6/2025 - present)
+- Postdoctoral Researcher | University of Coimbra (6/2025 - present)
 - Data Curator, Validator and Analyst | FORRT, Freelancer (11/2024 - present)
 - Postdoctoral Researcher | Hasselt University (10/2024 - 05/2025)
 - PhD Researcher | Hasselt University (1/2020 - 9/2024)
