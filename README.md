@@ -17,7 +17,7 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 - MSc, Statistics | Addis Ababa University, Ethiopia 
 - BSc, Statistics | Hawassa University, Ethiopia
 
-### Grants and Funding 
+### Funding 
 - 2016-2017: _Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia_ — Principal Investigator, Haramaya University (70,000 ETB)
   
 ### Publications
