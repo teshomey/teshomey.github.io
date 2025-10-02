@@ -17,13 +17,6 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 - MSc, Statistics | Addis Ababa University, Ethiopia 
 - BSc, Statistics | Hawassa University, Ethiopia
 
-## Skills
-- Experience in cleaning large datasets, exploration, and visualization using R and Power BI
-- Analyzed over 60,000 samples collected over 5-years of PhD research using R
-- Proficient in statistical software such as R, Python, SAS, SPSS, SQL, JMP
-- Proficient in preparing reports using MS Office (Word, PPT, Excel), LaTeX, and R Markdown
-- Ability to communicate statistical results to non-technical stakeholders
-
 ### Certifications
 - Microsoft Power BI Desktop for Business Intelligence: [www.udemy.com](https://www.udemy.com/certificate/UC-6926b889-4cf5-473f-8833-4d6c21aa8ee2/)
 - Data Analysis with Python: [www.courses.edx.org](https://courses.edx.org/certificates/20f61a4ccdf14243b945d66167004a2a).
