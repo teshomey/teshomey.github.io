@@ -33,9 +33,9 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 6.  Geneti, Kasahun T. and **Deressa, T.K.** 2014. “Correlates of under-five child mortality in Ethiopia: A logistic regression analysis.” _Adv. App. Stat._ 39 (1): 61.
 
 ## Conference Presentations
-- 08/10/2022 - MAER-Net Colloquium 2022, Kyoto University, Japan  
-- 28/09/2022 -  Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
-- 23/10/2021 - MAER-Net Colloquium 2021, University of Piraeus, Greece
+- 08/10/2022: MAER-Net Colloquium 2022, Kyoto University, Japan  
+- 28/09/2022:  Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
+- 23/10/2021: MAER-Net Colloquium 2021, University of Piraeus, Greece
 
 ## Training Delivered
 - _Machine Learning with Applications in Python_ for Oromia Health Bureau staff (Ethiopia), remote, Oct 11, 2025.
