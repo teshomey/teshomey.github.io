@@ -38,8 +38,8 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 - 23/10/2021 - MAER-Net Colloquium 2021, University of Piraeus, Greece
 
 ## Training delivered
-- _Machine Learning with Applications in Python_ for Oromia Health Bureau staff in Ethiopia, remote, Oct 11, 2025.
-- _A Gentle Introduction to Python_ for Oromia Health Bureau staff in Ethiopia, remote, Sept 13, 2025.
+- _Machine Learning with Applications in Python_ for Oromia Health Bureau staff (Ethiopia), remote, Oct 11, 2025.
+- _A Gentle Introduction to Python_ for Oromia Health Bureau staff (Ethiopia), remote, Sept 13, 2025.
 - _Analysis of Variance Models using SAS_ (25-26 June 2016), for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia
 - _LaTeX Document Preparation System Using WinEdt Software_ (18-20 June 2015), for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia
 
