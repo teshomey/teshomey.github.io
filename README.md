@@ -17,12 +17,9 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 - MSc, Statistics | Addis Ababa University, Ethiopia 
 - BSc, Statistics | Hawassa University, Ethiopia
 
-### Certifications
-- Microsoft Power BI Desktop for Business Intelligence: [www.udemy.com](https://www.udemy.com/certificate/UC-6926b889-4cf5-473f-8833-4d6c21aa8ee2/)
-- Data Analysis with Python: [www.courses.edx.org](https://courses.edx.org/certificates/20f61a4ccdf14243b945d66167004a2a).
-- Machine Learning with Python: [www.coursesm.edx.org](https://courses.edx.org/certificates/33e316ac4c064e0ab1aa42b74b750564).
-- SAS Certified Base Programmer for SAS 9: [www.sas.com](https://www.certmetrics.com/SAS/public/verification.aspx) with verification number: 5V3LSQVK2M1115W2.
-
+## Grants and Funding 
+- 2016-2017: **Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia** — Principal Investigator, Haramaya University (70,000 ETB)
+  
 ### Publications
 1.  **Deressa, T.K.** and Stern, David and Vangronsveld, Jaco and Minx, Jan and Lizin, Sebastien and Malina, Robert and Bruns, Stephan B. 2023. “More than half of statistically significant research findings in the environmental sciences are actually not.” Preprint [DOI](https://doi.org/10.32942/X24G6Z).
       - Media attention: **De Morgen** in Dutch - [www.demorgen.be](https://www.demorgen.be/nieuws/meer-dan-de-helft-van-het-onderzoek-in-de-milieuwetenschappen-deugt-niet-studies-beweren-dingen-die-onvoldoende-onderbouwd-zijn~bca6f9d4/) and **Le Point** in French - [www.lepoint.fr](https://www.lepoint.fr/environnement/sciences-de-l-environnement-donnees-robustes-ou-conjectures-incertaines-31-01-2023-2506970_1927.php#11).
@@ -36,6 +33,12 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
 - 08/10/2022: MAER-Net Colloquium 2022, Kyoto University, Japan  
 - 28/09/2022:  Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
 - 23/10/2021: MAER-Net Colloquium 2021, University of Piraeus, Greece
+
+### Certifications
+- Microsoft Power BI Desktop for Business Intelligence: [www.udemy.com](https://www.udemy.com/certificate/UC-6926b889-4cf5-473f-8833-4d6c21aa8ee2/)
+- Data Analysis with Python: [www.courses.edx.org](https://courses.edx.org/certificates/20f61a4ccdf14243b945d66167004a2a).
+- Machine Learning with Python: [www.coursesm.edx.org](https://courses.edx.org/certificates/33e316ac4c064e0ab1aa42b74b750564).
+- SAS Certified Base Programmer for SAS 9: [www.sas.com](https://www.certmetrics.com/SAS/public/verification.aspx) with verification number: 5V3LSQVK2M1115W2.
 
 ## Training Delivered
 - _Machine Learning with Applications in Python_ for Oromia Health Bureau staff (Ethiopia), remote, Oct 11, 2025.
@@ -54,9 +57,6 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
    - _Introduction to Statistics_
    - _Introduction to Probability Theory_
 
-## Grants and Funding 
-- 2016-2017: **Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia** — Principal Investigator, Haramaya University (70,000 ETB)
-  
 ## Scholarship Awards
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
 - Fully funded master scholarship | Hasselt University - VLIR-UOS (2017 - 2019)
