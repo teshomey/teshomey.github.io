@@ -57,7 +57,7 @@ Expert in statistical modeling, including survival analyses, Bayesian analyses, 
    - _Introduction to Statistics_
    - _Introduction to Probability Theory_
 
-### Scholarship Awards
+### Honors and Awards
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
 - Fully funded master scholarship | Hasselt University - VLIR-UOS (2017 - 2019)
 
