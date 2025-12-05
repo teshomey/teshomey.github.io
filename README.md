@@ -64,10 +64,10 @@ Researcher and data analyst specializing in statistical modeling, including surv
    - _Introduction to Probability Theory_
   
 ### Certifications
+- Machine Learning with Python: [www.coursesm.edx.org](https://courses.edx.org/certificates/33e316ac4c064e0ab1aa42b74b750564)
+- Data Analysis with Python: [www.courses.edx.org](https://courses.edx.org/certificates/20f61a4ccdf14243b945d66167004a2a)
 - Microsoft Power BI Desktop for Business Intelligence: [www.udemy.com](https://www.udemy.com/certificate/UC-6926b889-4cf5-473f-8833-4d6c21aa8ee2/)
-- Data Analysis with Python: [www.courses.edx.org](https://courses.edx.org/certificates/20f61a4ccdf14243b945d66167004a2a).
-- Machine Learning with Python: [www.coursesm.edx.org](https://courses.edx.org/certificates/33e316ac4c064e0ab1aa42b74b750564).
-- SAS Certified Base Programmer for SAS 9: [www.sas.com](https://www.certmetrics.com/SAS/public/verification.aspx) with verification number: 5V3LSQVK2M1115W2.
+- SAS Certified Base Programmer for SAS 9: [www.sas.com](https://www.certmetrics.com/SAS/public/verification.aspx) with verification number: 5V3LSQVK2M1115W2
 
 ### Scholarships
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
