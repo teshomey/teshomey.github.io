@@ -3,6 +3,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 
 ### Experience
 - Postdoctoral Researcher | University of Coimbra (6/2025 - present)
+   - Used Bayesian hierarchical models to evaluate policy effectiveness of journal policies
 - Data Curator and Analyst | FORRT, Freelancer (11/2024 - 9/2025)
 - Postdoctoral Researcher | Hasselt University (10/2024 - 05/2025)
 - PhD Researcher | Hasselt University (1/2020 - 9/2024)
