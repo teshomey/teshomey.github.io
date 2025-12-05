@@ -3,7 +3,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 
 ### Experience
 - Postdoctoral Researcher | University of Coimbra (6/2025 - present)
-- Data Curator and Analyst | FORRT, Freelancer (11/2024 - present)
+- Data Curator and Analyst | FORRT, Freelancer (11/2024 - 9/2025)
 - Postdoctoral Researcher | Hasselt University (10/2024 - 05/2025)
 - PhD Researcher | Hasselt University (1/2020 - 9/2024)
 - Statistical Expert | Haramaya University (12/2016 - 9/2017)
