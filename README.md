@@ -29,10 +29,14 @@ Researcher and data analyst specializing in statistical modeling, including surv
 5.  Temesgen, Aboma and **Deressa, T.K.** 2016. “Joint modeling of longitudinal CD4 count and weight measurements of HIV/TB co-infected patients at Jimma University Specialized Hospital.” _Ann  Data Sc._ 3 (3): 321–338, [DOI](https://doi.org/10.1007/s40745-016-0085-9).
 6.  Geneti, Kasahun T. and **Deressa, T.K.** 2014. “Correlates of under-five child mortality in Ethiopia: A logistic regression analysis.” _Adv. App. Stat._ 39 (1): 61.
 
-### Conference Presentations
+### Conference presentations and invited talks
+- 11/10/2025:  _Machine Learning with Applications in Python_ for Oromia Health Bureau staff (Ethiopia), remote
+- 13/09/2025: _A Gentle Introduction to Python_ for Oromia Health Bureau staff (Ethiopia), remote
 - 08/10/2022: MAER-Net Colloquium 2022, Kyoto University, Japan  
 - 28/09/2022:  Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
 - 23/10/2021: MAER-Net Colloquium 2021, University of Piraeus, Greece
+- _Analysis of Variance Models using SAS_ (25-26 June 2016), for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia
+- _LaTeX Document Preparation System Using WinEdt Software_ (18-20 June 2015), for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia
 
 ### Certifications
 - Microsoft Power BI Desktop for Business Intelligence: [www.udemy.com](https://www.udemy.com/certificate/UC-6926b889-4cf5-473f-8833-4d6c21aa8ee2/)
