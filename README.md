@@ -31,6 +31,12 @@ Researcher and data analyst specializing in statistical modeling, including surv
 - MSc, Statistics | Addis Ababa University, Ethiopia 
 - BSc, Statistics | Hawassa University, Ethiopia
 
+### Technical skills
+- Programming: R (advanced), Python (intermediate), SAS (Certified Base for SAS 9), SPSS (advanced), Stata (basics), SQL
+-  Visualization: ggplot2, matplotlib, seaborn, Power BI
+- Machine learning: Supervised/unsupervised learning, prediction, classification, clustering
+- Tools: LaTeX, Jupyter Notebook, Rmarkdown, GitHub
+  
 ### Funding 
 - 2016-2017: _Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia_ — **Principal Investigator**, Haramaya University (**70,000 ETB**)
   
