@@ -26,21 +26,25 @@ Researcher and data analyst specializing in statistical modeling, including surv
 - Lecturer | Haramaya University, Ethiopia (7/2013 - 2/2017)
 - Graduate Assistant | Haramaya University, Ethiopia (9/2009 - 7/2013)
 
+---
 ### Education
 - PhD, Economics | Hasselt University, Belgium 
 - MSc, Biostatistics | Hasselt University, Belgium 
 - MSc, Statistics | Addis Ababa University, Ethiopia 
 - BSc, Statistics | Hawassa University, Ethiopia
-
+  
+---
 ### Technical skills
 - Programming: R (advanced), Python (intermediate), SAS (Certified Base for SAS 9), SPSS (advanced), Stata (basics), SQL
 -  Visualization: ggplot2, matplotlib, seaborn, Power BI
 - Machine learning: Supervised/unsupervised learning, prediction, classification, clustering
 - Tools: LaTeX, Jupyter Notebook, Rmarkdown, GitHub
   
+---  
 ### Funding 
 - 2016-2017: _Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia_ — **Principal Investigator**, Haramaya University (**70,000 ETB**)
-  
+
+  ---
 ### Publications
 1.  **Deressa, T.K.** and Stern, David and Vangronsveld, Jaco and Minx, Jan and Lizin, Sebastien and Malina, Robert and Bruns, Stephan B. 2023. “More than half of statistically significant research findings in the environmental sciences are actually not.” Preprint [DOI](https://doi.org/10.32942/X24G6Z).
       - Media attention: **De Morgen** in Dutch - [www.demorgen.be](https://www.demorgen.be/nieuws/meer-dan-de-helft-van-het-onderzoek-in-de-milieuwetenschappen-deugt-niet-studies-beweren-dingen-die-onvoldoende-onderbouwd-zijn~bca6f9d4/) and **Le Point** in French - [www.lepoint.fr](https://www.lepoint.fr/environnement/sciences-de-l-environnement-donnees-robustes-ou-conjectures-incertaines-31-01-2023-2506970_1927.php#11).
@@ -50,6 +54,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 5.  Temesgen, Aboma and **Deressa, T.K.** 2016. “Joint modeling of longitudinal CD4 count and weight measurements of HIV/TB co-infected patients at Jimma University Specialized Hospital.” _Ann  Data Sc._ 3 (3): 321–338, [DOI](https://doi.org/10.1007/s40745-016-0085-9).
 6.  Geneti, Kasahun T. and **Deressa, T.K.** 2014. “Correlates of under-five child mortality in Ethiopia: A logistic regression analysis.” _Adv. App. Stat._ 39 (1): 61.
 
+---
 ### Conference presentations and invited talks
 - 11/10/2025:  _Machine Learning with Applications in Python_ for Oromia Health Bureau staff (Ethiopia), remote
 - 13/09/2025: _A Gentle Introduction to Python_ for Oromia Health Bureau staff (Ethiopia), remote
@@ -59,6 +64,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 - _Analysis of Variance Models using SAS_ (25-26 June 2016), for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia
 - _LaTeX Document Preparation System Using WinEdt Software_ (18-20 June 2015), for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia
 
+---
 ### Teaching and supervision
 - Supervised 6 master theses at Hasselt University (2020 - 2023)
 - Teaching member of the _Microeconomics_ course at Hasselt University, Belgium (2020 - 2022)
@@ -69,17 +75,20 @@ Researcher and data analyst specializing in statistical modeling, including surv
    - _Statistical Quality Control_
    - _Introduction to Statistics_
    - _Introduction to Probability Theory_
-  
+
+---
 ### Certifications
 - Machine Learning with Python: [www.coursesm.edx.org](https://courses.edx.org/certificates/33e316ac4c064e0ab1aa42b74b750564)
 - Data Analysis with Python: [www.courses.edx.org](https://courses.edx.org/certificates/20f61a4ccdf14243b945d66167004a2a)
 - Microsoft Power BI Desktop for Business Intelligence: [www.udemy.com](https://www.udemy.com/certificate/UC-6926b889-4cf5-473f-8833-4d6c21aa8ee2/)
 - SAS Certified Base Programmer for SAS 9: [www.sas.com](https://www.certmetrics.com/SAS/public/verification.aspx) with verification number: 5V3LSQVK2M1115W2
 
+---
 ### Scholarships
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
 - Fully funded master scholarship | Hasselt University - VLIR-UOS (2017 - 2019)
 
+---
 ### Professional service
 _BMC Infectious Diseases_, _Journal of Health, Population and Nutrition_, _Journal of Economic Survey_, _Journal of Human Ecology_
 
