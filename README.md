@@ -13,6 +13,12 @@ Researcher and data analyst specializing in statistical modeling, including surv
   - Contributed to data collection and statistical analyses for a study on sustainable aviation fuel development
   - Collaborated with cross-functional teams to translate research questions into analytical frameworks
 - PhD Researcher | Hasselt University (1/2020 - 9/2024)
+  -  Developed novel statistical methodology for detecting publication selection bias and estimate its extent
+  -  Developed study protocol and performed rigorous meta-analyses
+  -  Analyzed 60,000+ samples using R, resulting in 2 impactful publications
+  -  Extracted textual data and applied unsupervised machine learning to uncover hidden patterns using R
+  -  Co-taught \textit{Microeconomics} course for undergraduates (2020 - 2023)
+  -   Mentored 6 master’s thesis projects
 - Statistical Expert | Haramaya University (12/2016 - 9/2017)
 - Assistant Professor of Statistics | Haramaya University (2/2017 - 9/2017)
 - Lecturer | Haramaya University (7/2013 - 2/2017)
