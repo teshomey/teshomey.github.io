@@ -3,6 +3,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 
 ### Experience
 - Postdoctoral Researcher | University of Coimbra (6/2025 - present)
+   - AI-assisted text classification
    - Used Bayesian hierarchical models to evaluate policy effectiveness of journal policies
    - Contributed to developing and validating an open-source R package for automated data extraction and classification
 - Data Curator & Analyst | FORRT, Freelancer (11/2024 - 9/2025)
