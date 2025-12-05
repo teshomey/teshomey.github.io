@@ -2,7 +2,7 @@
 Researcher and data analyst specializing in statistical modeling, including survival analyzes, multilevel modeling, Bayesian analyses, machine learning, systematic reviews, (network) meta-analyses, and power and sample size calculations. Experienced in driving actionable insights from large datasets using industry-standard tools such as R, Python, SAS, and SQL. Proficient in data visualization tools like Power BI to communicate findings effectively to non-technical stakeholders.
 
 ### Experience
-- Postdoctoral Researcher | University of Coimbra (6/2025 - present)
+### Postdoctoral Researcher | University of Coimbra (6/2025 - present)
    - Used Bayesian hierarchical models to evaluate policy effectiveness of journal policies
    - Contributed to developing and validating an open-source R package for automated data extraction and classification
 - Data Curator and Analyst | FORRT, Freelancer (11/2024 - 9/2025)
@@ -10,6 +10,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
   - Validated data entries from other coders to ensure accuracy
   - Carried out data analysis using R and prepared a detailed report
 - Postdoctoral Researcher | Hasselt University (10/2024 - 05/2025)
+- 
 - PhD Researcher | Hasselt University (1/2020 - 9/2024)
 - Statistical Expert | Haramaya University (12/2016 - 9/2017)
 - Assistant Professor of Statistics | Haramaya University (2/2017 - 9/2017)
