@@ -5,17 +5,17 @@ Researcher and data analyst specializing in statistical modeling, including surv
 ##### Postdoctoral Researcher | University of Coimbra (6/2025 - present)
    - Used Bayesian hierarchical models to evaluate policy effectiveness of journal policies
    - Contributed to developing and validating an open-source R package for automated data extraction and classification
-- Data Curator and Analyst | FORRT, Freelancer (11/2024 - 9/2025)
+##### Data Curator and Analyst | FORRT, Freelancer (11/2024 - 9/2025)
   - Extracted and coded data from 80+ published articles to expand research replication database - [FReD](https://forrt.org/apps/fred_explorer.html)
   - Validated data entries from other coders to ensure accuracy
   - Carried out data analysis using R and prepared a detailed report
-- Postdoctoral Researcher | Hasselt University (10/2024 - 05/2025)
+##### Postdoctoral Researcher | Hasselt University (10/2024 - 05/2025)
 - 
-- PhD Researcher | Hasselt University (1/2020 - 9/2024)
-- Statistical Expert | Haramaya University (12/2016 - 9/2017)
-- Assistant Professor of Statistics | Haramaya University (2/2017 - 9/2017)
-- Lecturer | Haramaya University (7/2013 - 2/2017)
-- Graduate Assistant | Haramaya University (9/2009 - 7/2013)
+##### PhD Researcher | Hasselt University (1/2020 - 9/2024)
+##### Statistical Expert | Haramaya University (12/2016 - 9/2017)
+##### Assistant Professor of Statistics | Haramaya University (2/2017 - 9/2017)
+##### Lecturer | Haramaya University (7/2013 - 2/2017)
+##### Graduate Assistant | Haramaya University (9/2009 - 7/2013)
 
 ### Education
 - PhD, Economics | Hasselt University, Belgium 
