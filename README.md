@@ -5,7 +5,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 - Postdoctoral Researcher | University of Coimbra (6/2025 - present)
    - Used Bayesian hierarchical models to evaluate policy effectiveness of journal policies
    - Contributed to developing and validating an open-source R package for automated data extraction and classification
-- Data Curator and Analyst | FORRT, Freelancer (11/2024 - 9/2025)
+- Data Curator & Analyst | FORRT, Freelancer (11/2024 - 9/2025)
   - Extracted and coded data from 80+ published articles to expand research replication database - [FReD](https://forrt.org/apps/fred_explorer.html)
   - Validated data entries from other coders to ensure accuracy
   - Carried out data analysis using R and prepared a detailed report
