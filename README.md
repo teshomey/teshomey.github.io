@@ -18,7 +18,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 - BSc, Statistics | Hawassa University, Ethiopia
 
 ### Funding 
-- 2016-2017: _Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia_ — Principal Investigator, Haramaya University (70,000 ETB)
+- 2016-2017: _Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia_ — **Principal Investigator**, Haramaya University (**70,000 ETB**)
   
 ### Publications
 1.  **Deressa, T.K.** and Stern, David and Vangronsveld, Jaco and Minx, Jan and Lizin, Sebastien and Malina, Robert and Bruns, Stephan B. 2023. “More than half of statistically significant research findings in the environmental sciences are actually not.” Preprint [DOI](https://doi.org/10.32942/X24G6Z).
@@ -44,13 +44,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 - Machine Learning with Python: [www.coursesm.edx.org](https://courses.edx.org/certificates/33e316ac4c064e0ab1aa42b74b750564).
 - SAS Certified Base Programmer for SAS 9: [www.sas.com](https://www.certmetrics.com/SAS/public/verification.aspx) with verification number: 5V3LSQVK2M1115W2.
 
-### Training Delivered
-- _Machine Learning with Applications in Python_ for Oromia Health Bureau staff (Ethiopia), remote, Oct 11, 2025.
-- _A Gentle Introduction to Python_ for Oromia Health Bureau staff (Ethiopia), remote, Sept 13, 2025.
-- _Analysis of Variance Models using SAS_ (25-26 June 2016), for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia
-- _LaTeX Document Preparation System Using WinEdt Software_ (18-20 June 2015), for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia
-
-### Teaching and Supervision
+### Teaching and supervision
 - Supervised 6 master theses at Hasselt University (2020 - 2023)
 - Teaching member of the _Microeconomics_ course at Hasselt University, Belgium (2020 - 2022)
 - Supported undergraduate and postgraduate students on how to analyze data using R and SAS during my stay at Hasselt University and Haramaya University
@@ -61,11 +55,11 @@ Researcher and data analyst specializing in statistical modeling, including surv
    - _Introduction to Statistics_
    - _Introduction to Probability Theory_
 
-### Honors and Awards
+### Scholarships
 - Fully funded doctoral scholarship | Hasselt University (2020 - 2024)
 - Fully funded master scholarship | Hasselt University - VLIR-UOS (2017 - 2019)
 
-### Professional Service
+### Professional service
 _BMC Infectious Diseases_, _Journal of Health, Population and Nutrition_, _Journal of Economic Survey_, _Journal of Human Ecology_
 
 
