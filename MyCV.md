@@ -3,28 +3,28 @@ Researcher and data analyst specializing in statistical modeling, including surv
 
 ---
 ### Experience
-- Postdoctoral Researcher | University of Coimbra, Portugal (06/2025 - Present)
+- Postdoctoral Researcher | University of Coimbra, **Portugal** (06/2025 - Present)
    - AI-assisted text classification with Python — see [ai-assisted](https://github.com/teshomey/ai-assisted-text-classification) for the details
    - Used Bayesian hierarchical models to evaluate policy effectiveness of journal policies
    - Contributed to developing and validating an open-source R package for automated data extraction and classification
-- Data Curator & Analyst, Freelancer | FORRT, Germany (11/2024 - 09/2025)
+- Data Curator & Analyst, Freelancer | FORRT, **Germany** (11/2024 - 09/2025)
   - Extracted and coded data from 80+ published articles to expand research replication database - [FReD](https://forrt.org/apps/fred_explorer.html)
   - Validated data entries from other coders to ensure accuracy
   - Carried out data analysis using R and prepared a detailed report
-- Postdoctoral Researcher | Hasselt University, Belgium (10/2024 - 05/2025)
+- Postdoctoral Researcher | Hasselt University, **Belgium** (10/2024 - 05/2025)
   - Contributed to data collection and statistical analyses for a study on sustainable aviation fuel development
   - Collaborated with cross-functional teams to translate research questions into analytical frameworks
-- PhD Researcher | Hasselt University, Belgium (1/2020 - 9/2024)
+- PhD Researcher | Hasselt University, **Belgium** (1/2020 - 9/2024)
   -  Developed novel statistical methodology for detecting publication selection bias and estimate its extent
   -  Developed study protocol and performed rigorous meta-analyses
   -  Analyzed 60,000+ samples using R, resulting in 2 impactful publications
   -  Extracted textual data and applied unsupervised machine learning to uncover hidden patterns using R
   -  Co-taught _Microeconomics_ course for undergraduates (2020 - 2023)
   -   Mentored 6 master’s thesis projects
-- Statistical Expert | Haramaya University, Ethiopia (12/2016 - 09/2017)
-- Assistant Professor of Statistics | Haramaya University, Ethiopia (02/2017 - 09/2017)
-- Lecturer | Haramaya University, Ethiopia (07/2013 — 02/2017)
-- Graduate Assistant | Haramaya University, Ethiopia (09/2009 - 07/2013)
+- Statistical Expert | Haramaya University, **Ethiopia** (12/2016 - 09/2017)
+- Assistant Professor of Statistics | Haramaya University, **Ethiopia** (02/2017 - 09/2017)
+- Lecturer | Haramaya University, **Ethiopia** (07/2013 — 02/2017)
+- Graduate Assistant | Haramaya University, **Ethiopia** (09/2009 - 07/2013)
 
 ---
 ### Education
