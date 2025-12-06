@@ -1,0 +1,1 @@
+This repository contains the most recent version of my academic and professional Curriculum Vitae. It highlights my expertise in statistical modeling, data analysis, machine learning, meta-research, and scientific communication.
