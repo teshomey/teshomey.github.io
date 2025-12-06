@@ -41,7 +41,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 - Tools: LaTeX, Jupyter Notebook, Rmarkdown, GitHub
   
 ---  
-### Grants and funding 
+### Grant and funding 
 - 2016-2017: _Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia_ — **Principal Investigator**, Haramaya University (**70,000 ETB**)
 
 ---
