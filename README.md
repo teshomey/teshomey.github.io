@@ -61,8 +61,8 @@ Researcher and data analyst specializing in statistical modeling, including surv
 - 08/10/2022: MAER-Net Colloquium 2022, Kyoto University, Japan  
 - 28/09/2022:  Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, Germany
 - 23/10/2021: MAER-Net Colloquium 2021, University of Piraeus, Greece
-- _Analysis of Variance Models using SAS_ (25-26 June 2016), for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia
-- _LaTeX Document Preparation System Using WinEdt Software_ (18-20 June 2015), for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia
+- 25-26/06/2016: _Analysis of Variance Models using SAS_ for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia
+- 18-20/06/2015: _LaTeX Document Preparation System Using WinEdt Software_ for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia
 
 ---
 ### Teaching and supervision
