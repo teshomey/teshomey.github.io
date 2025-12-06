@@ -35,7 +35,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
   
 ---
 ### Technical skills
-- Programming: R (advanced), Python (intermediate), SAS (Certified Base for SAS 9), SPSS (advanced), Stata (basics), SQL
+- Programming: R (advanced), Python (intermediate), SAS (Certified Base for SAS 9), SPSS (advanced), SQL
 -  Visualization: `ggplot2`, `matplotlib`, `seaborn`, Power BI
 - Machine learning: Supervised/unsupervised learning, prediction, classification, clustering
 - Tools: LaTeX, Jupyter Notebook, Rmarkdown, GitHub
