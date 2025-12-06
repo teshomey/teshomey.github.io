@@ -23,7 +23,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
   -   Mentored 6 master’s thesis projects
 - Statistical Expert | Haramaya University, **Ethiopia** (12/2016 - 09/2017)
 - Assistant Professor of Statistics | Haramaya University, **Ethiopia** (02/2017 - 09/2017)
-- Lecturer | Haramaya University, **Ethiopia** (07/2013 — 02/2017)
+- Lecturer | Haramaya University, **Ethiopia** (07/2013 - 02/2017)
 - Graduate Assistant | Haramaya University, **Ethiopia** (09/2009 - 07/2013)
 
 ---
