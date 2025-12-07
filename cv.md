@@ -5,14 +5,14 @@ Researcher and data analyst specializing in statistical modeling, including surv
 ### Experience
 - Postdoctoral Researcher | University of Coimbra, **Portugal** (06/2025 - Present)
    - AI-assisted text classification with Python — see [ai-assisted](https://github.com/teshomey/ai-assisted-text-classification) for the details
-   - Used Bayesian hierarchical models to evaluate policy effectiveness of journal policies
+   - Used Bayesian hierarchical models to evaluate policy effectiveness of policies
    - Contributed to developing and validating an open-source R package for automated data extraction and classification
 - Data Curator & Analyst, _Freelancer_ | FORRT, **Germany** (11/2024 - 09/2025)
   - Extracted and coded data from 80+ published articles to expand research replication database - [FReD](https://forrt.org/apps/fred_explorer.html)
   - Validated data entries from other coders to ensure accuracy
   - Carried out data analysis using R and prepared a detailed report
 - Postdoctoral Researcher | Hasselt University, **Belgium** (10/2024 - 05/2025)
-  - Contributed to data collection and statistical analyses for a study on sustainable aviation fuel development
+  - Contributed to data collection and statistical analyses for a study on sustainable aviation fuel
   - Collaborated with cross-functional teams to translate research questions into analytical frameworks
 - PhD Researcher | Hasselt University, **Belgium** (1/2020 - 9/2024)
   -  Developed novel statistical methodology for detecting publication selection bias and estimate its extent
