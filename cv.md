@@ -51,8 +51,8 @@ Researcher and data analyst specializing in statistical modeling, including surv
 2. Bruns, S.B., **Deressa, T.K.**, Stanley, T.D., Doucouliagos, C. and Ioannidis, J.P., 2024. Estimating the extent of selective reporting: An application to economics. _Res. Synth. Methods_, 15(4), pp.590-602. [DOI](https://doi:10.1002/jrsm.1711).
 3.  Bartoš, F., Maier, M., Wagenmakers, E.J., Nippold, F., Doucouliagos, H., Ioannidis, J.P., Otte, W.M., Sladekova, M., **Deressa, T.K.**, Bruns, S.B. and Fanelli, D., 2024. Footprint of publication selection bias on meta‐analyses in medicine, environmental sciences, psychology, and economics. _Res. Synth. Methods_, 15(3), pp.500-511. [DOI](https://doi.org/10.1002/jrsm.1703).
 4.  Sebu, A.T., Genati, K.T., Bekalo, D.B. and **Deressa, T.K.**, 2020. Spatiotemporal dynamics of tuberculosis in East Hararge zone, Oromiya region, Ethiopia. _Spat. Inf. Res._, 28(6), pp.623-633. [DOI](https://doi.org/10.1007/s41324-020-00319-9).
-5.  Temesgen, Aboma and **Deressa, T.K.** 2016. “Joint modeling of longitudinal CD4 count and weight measurements of HIV/TB co-infected patients at Jimma University Specialized Hospital.” _Ann  Data Sc._ 3 (3): 321–338, [DOI](https://doi.org/10.1007/s40745-016-0085-9).
-6.  Geneti, Kasahun T. and **Deressa, T.K.** 2014. “Correlates of under-five child mortality in Ethiopia: A logistic regression analysis.” _Adv. App. Stat._ 39 (1): 61.
+5. Temesgen, A. and **Deressa, T.K.**, 2016. Joint modeling of longitudinal CD4 count and weight measurements of HIV/tuberculosis co-infected patients at Jimma University specialized hospital. _Ann. Data Sc._, 3(3), pp.321-338. [DOI](https://doi.org/10.1007/s40745-016-0085-9).
+6.  Geneti, Kasahun T. and **Deressa, T.K.** 2014. Correlates of under-five child mortality in Ethiopia: A logistic regression analysis. _Adv. App. Stat._ 39 (1): 61.
 
 ---
 ### Conference presentations and invited talks
