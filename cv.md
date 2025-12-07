@@ -56,7 +56,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 7.  **Deressa, T.K.** 2012. Application of multilevel logistic model to identify correlates of poverty in Ethiopia. _East Afr. J. Sci._6(2): 137-146.
 
 ---
-### Conference presentations and invited talks
+### Selected conference presentations and invited talks
 - _Machine Learning with Applications in Python_ for Oromia Health Bureau staff (remote), Ethiopia. 11/10/2025
 - _A Gentle Introduction to Python_ for Oromia Health Bureau staff (remote), Ethiopia. 13/09/2025
 - _Evaluation of methods used to detect selective reporting_, MAER-Net Colloquium 2022, Kyoto University, Japan. 08/10/2022  
