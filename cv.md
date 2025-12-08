@@ -60,7 +60,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 4.  Sebu, A.T., Genati, K.T., Bekalo, D.B. and **Deressa, T.K.**, 2020. Spatiotemporal dynamics of tuberculosis in East Hararge zone, Oromiya region, Ethiopia. _Spat. Inf. Res._, 28(6), pp.623-633. [DOI](https://doi.org/10.1007/s41324-020-00319-9).
 5. Temesgen, A. and **Deressa, T.K.**, 2016. Joint modeling of longitudinal CD4 count and weight measurements of HIV/tuberculosis co-infected patients at Jimma University specialized hospital. _Ann. Data Sc._, 3(3), pp.321-338. [DOI](https://doi.org/10.1007/s40745-016-0085-9).
 6.  Geneti, Kasahun T. and **Deressa, T.K.** 2014. Correlates of under-five child mortality in Ethiopia: A logistic regression analysis. _Adv. App. Stat._ 39 (1): 61.
-7.  **Deressa, T.K.** 2012. Application of multilevel logistic model to identify correlates of poverty in Ethiopia. _East Afr. J. Sci._6(2): 137-146.
+7.  **Deressa, T.K.** 2012. Application of multilevel logistic model to identify correlates of poverty in Ethiopia. _East Afr. J. Sci._ 6(2): 137-146.
 
 ---
 ### Selected conference presentations and invited talks
