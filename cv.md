@@ -53,7 +53,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 
 ---
 ### Publications
-1.  **Deressa, T.K.**, Stern, D., Vangronsveld, J., Minx, J., Lizin, S., Malina, R. and Bruns, S., 2023. More than half of statistically significant research findings in the environmental sciences are actually not. _Preprint_ [DOI](https://doi.org/10.32942/X24G6Z).
+1.  **Deressa, T.K.**, Stern, D., Vangronsveld, J., Minx, J., Lizin, S., Malina, R. and Bruns, S., 2023. More than half of statistically significant research findings in the environmental sciences are actually not. _Preprint_. [DOI](https://doi.org/10.32942/X24G6Z).
       - Media attention: **De Morgen** in Dutch - [www.demorgen.be](https://www.demorgen.be/nieuws/meer-dan-de-helft-van-het-onderzoek-in-de-milieuwetenschappen-deugt-niet-studies-beweren-dingen-die-onvoldoende-onderbouwd-zijn~bca6f9d4/) and **Le Point** in French - [www.lepoint.fr](https://www.lepoint.fr/environnement/sciences-de-l-environnement-donnees-robustes-ou-conjectures-incertaines-31-01-2023-2506970_1927.php#11).
 2. Bruns, S.B., **Deressa, T.K.**, Stanley, T.D., Doucouliagos, C. and Ioannidis, J.P., 2024. Estimating the extent of selective reporting: An application to economics. _Res. Synth. Methods_, 15(4), pp.590-602. [DOI](https://doi:10.1002/jrsm.1711).
 3.  Bartoš, F., Maier, M., Wagenmakers, E.J., Nippold, F., Doucouliagos, H., Ioannidis, J.P., Otte, W.M., Sladekova, M., **Deressa, T.K.**, Bruns, S.B. and Fanelli, D., 2024. Footprint of publication selection bias on meta‐analyses in medicine, environmental sciences, psychology, and economics. _Res. Synth. Methods_, 15(3), pp.500-511. [DOI](https://doi.org/10.1002/jrsm.1703).
