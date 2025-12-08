@@ -4,7 +4,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 ---
 ### Experience
 - Postdoctoral Researcher | University of Coimbra, **Portugal** (06/2025 - Present)
-   - AI-assisted text classification with Python — see [ai-assisted](https://github.com/teshomey/ai-assisted-text-classification) for the details
+   - AI-assisted text classification with Python — see [ai-assisted-text-classification](https://github.com/teshomey/ai-assisted-text-classification) for the details
    - Used Bayesian hierarchical models to evaluate policy effectiveness of policies
    - Contributed to developing and validating an open-source R package for automated data extraction and classification
 - Data Curator & Analyst, _Freelancer_ | FORRT, **Germany** (11/2024 - 09/2025)
