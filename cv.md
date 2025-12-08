@@ -27,7 +27,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 - Assistant Professor of Statistics | Haramaya University, **Ethiopia** (02/2017 - 09/2017)
 - Lecturer | Haramaya University, **Ethiopia** (07/2013 - 02/2017)
   - Taught various statistics courses
-  - Developed a module for the _Introduction to Statistics_
+  - Developed a module for _Introduction to Statistics_ course
   - Published research in peer-reviewed journals on healthcare analytics and poverty analysis
   - Delivered professional training on R and SAS to researchers and industry stakeholders
 - Graduate Assistant | Haramaya University, **Ethiopia** (09/2009 - 07/2013)
