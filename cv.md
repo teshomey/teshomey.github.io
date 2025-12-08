@@ -69,7 +69,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 - _Low power and overrepresentation of statistically significant findings in the environmental sciences_, Mercator Research Institute on Global Commons and Climate Change, Berlin, Germany. 28/09/2022
 - _Selective reporting and statistical power in environmental science_, MAER-Net Colloquium 2021, University of Piraeus, Greece. 23/10/2021
 - _Analysis of Variance Models using SAS_ for College of Agro-Industry and Land Resource staff, Haramaya University, Chiro Campus, Ethiopia. 25-26/06/2016
-- _LaTeX Document Preparation System Using WinEdt Software_ for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia. 18-20/06/2015
+- _LaTeX Document Preparation System using WinEdt Software_ for postgraduate students at the College of Computing and Informatics, Haramaya University, Main Campus, Ethiopia. 18-20/06/2015
 
 ---
 ### Teaching and supervision
