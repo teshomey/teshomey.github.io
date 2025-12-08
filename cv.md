@@ -19,7 +19,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
   -  Developed study protocol and performed rigorous meta-analyses
   -  Analyzed 60,000+ samples using R, resulting in 2 impactful publications
   -  Extracted textual data and applied unsupervised machine learning to uncover hidden patterns using R
-  -  Used Robust Bayesian Model Averaging to estimate the extent of publication selection bias on meta-analysis
+  -  Employed Robust Bayesian Model Averaging (RoBMA) to estimate the extent of publication selection bias on meta-analyses
   -  Co-taught _Microeconomics_ course for undergraduates (2020 - 2023)
   -   Mentored 6 master’s thesis projects
 - Statistical Expert | Haramaya University, **Ethiopia** (12/2016 - 09/2017)
