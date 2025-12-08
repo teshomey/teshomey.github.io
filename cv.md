@@ -22,8 +22,14 @@ Researcher and data analyst specializing in statistical modeling, including surv
   -  Co-taught _Microeconomics_ course for undergraduates (2020 - 2023)
   -   Mentored 6 master’s thesis projects
 - Statistical Expert | Haramaya University, **Ethiopia** (12/2016 - 09/2017)
+  - Led a team of 3 people, improved data reporting efficiency
+  - Presented and published data on university students, faculty, and alumni in the form of public statistical information
 - Assistant Professor of Statistics | Haramaya University, **Ethiopia** (02/2017 - 09/2017)
 - Lecturer | Haramaya University, **Ethiopia** (07/2013 - 02/2017)
+  - Taught various statistics courses
+  - Developed a module for the _Introduction to Statistics_
+  - Published research in peer-reviewed journals on healthcare analytics and poverty analysis
+  - Delivered professional training on R and SAS to researchers and industry stakeholders
 - Graduate Assistant | Haramaya University, **Ethiopia** (09/2009 - 07/2013)
 
 ---
@@ -74,8 +80,8 @@ Researcher and data analyst specializing in statistical modeling, including surv
    - _Applied Spatial Statistics_
    - _Time Series Analysis_
    - _Statistical Quality Control_
+   - _Probability Theory_
    - _Introduction to Statistics_
-   - _Introduction to Probability Theory_
 
 ---
 ### Certifications
