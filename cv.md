@@ -97,7 +97,7 @@ Researcher and data analyst specializing in statistical modeling, including surv
 - Fully funded master scholarship | Hasselt University - VLIR-UOS (2017 - 2019)
 
 ---
-### Professional service
+### Professional services
 _BMC Infectious Diseases_, _Journal of Health, Population and Nutrition_, _Journal of Economic Survey_, _Journal of Human Ecology_
 
 
