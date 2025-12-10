@@ -1,7 +1,7 @@
-<table width="100%">
+<table style="width:100%;">
 <tr>
-<td align="left"><strong><small>Version 1.0</small></strong></td>
-<td align="right"><strong><small>Dec 2025</small></strong></td>
+<td style="text-align:left;"><strong><sub>Version 1.0</sub></strong></td>
+<td style="text-align:right;"><strong><sub>Dec 2025</sub></strong></td>
 </tr>
 </table>
 
