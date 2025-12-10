@@ -1,3 +1,5 @@
+<h2 align="center">Centered Heading</h2>
+
 ### Experience
 - Postdoctoral Researcher | University of Coimbra, **Portugal** (06/2025 - Present)
    - AI-assisted text classification with Python — see [ai-assisted-text-classification](https://github.com/teshomey/ai-assisted-text-classification) for the details
