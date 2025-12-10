@@ -1,4 +1,4 @@
-<h2 align="center">Teshome Kebede Deressa </h2>
+<h2 align="center">Teshome K. Deressa </h2>
 
 
 
