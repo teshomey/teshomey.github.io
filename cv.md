@@ -1,9 +1,5 @@
-<table style="width:100%;">
-<tr>
-<td style="text-align:left;"><strong><sub>Version 1.0</sub></strong></td>
-<td style="text-align:right;"><strong><sub>Dec 2025</sub></strong></td>
-</tr>
-</table>
+<p align="center">Teshome Kebede Deressa</p>
+
 
 
 ### Experience
