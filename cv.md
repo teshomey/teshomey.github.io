@@ -1,4 +1,4 @@
-<h2 align="center">Centered Heading</h2>
+<h2 align="center">Teshome Kebede Deressa</h2>
 
 ### Experience
 - Postdoctoral Researcher | University of Coimbra, **Portugal** (06/2025 - Present)
