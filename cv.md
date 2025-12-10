@@ -1,5 +1,4 @@
-| Left text | Right text |
-|:--------- | ----------:|
+| Version 1.0 | Dec 2025 |
 
 
 ### Experience
