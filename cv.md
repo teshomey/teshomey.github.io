@@ -1,4 +1,9 @@
-| Version 1.0 | Dec 2025 |
+<table width="100%">
+<tr>
+<td align="left"><strong><small>Version 1.0</small></strong></td>
+<td align="right"><strong><small>Dec 2025</small></strong></td>
+</tr>
+</table>
 
 
 ### Experience
