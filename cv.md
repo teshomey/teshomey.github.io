@@ -1,4 +1,5 @@
-<h2 align="center">Teshome Kebede Deressa</h2>
+<p style="float: left;">Left text</p>
+<p style="float: right;">Right text</p>
 
 ### Experience
 - Postdoctoral Researcher | University of Coimbra, **Portugal** (06/2025 - Present)
