@@ -1,7 +1,3 @@
-### Summary
-Researcher and data analyst specializing in statistical modeling, including survival analyzes, multilevel modeling, Bayesian analyses, machine learning, (network) meta-analyses, and power and sample size calculations. Experienced in driving actionable insights from large datasets using industry-standard tools such as R, Python, SAS, and SQL. Proficient in data visualization tools like Power BI to communicate findings effectively to non-technical stakeholders.
-
----
 ### Experience
 - Postdoctoral Researcher | University of Coimbra, **Portugal** (06/2025 - Present)
    - AI-assisted text classification with Python — see [ai-assisted-text-classification](https://github.com/teshomey/ai-assisted-text-classification) for the details
