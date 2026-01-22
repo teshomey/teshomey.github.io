@@ -64,7 +64,7 @@
 
 ---
 ### Selected conference presentations and invited talks
-- _Sample Size Calculation with R and G*Power_. Up coming ... Jan. 21, 2026.
+- _Sample Size Calculation with R and G*Power_. [PPT][(https://osf.io/j2ntx/files/xf546).You can find the PPT here.
 - _Machine Learning with Applications in Python_ for Oromia Health Bureau staff (remote), Ethiopia. 11/10/2025
 - _A Gentle Introduction to Python_ for Oromia Health Bureau staff (remote), Ethiopia. 13/09/2025
 - _Evaluation of methods used to detect selective reporting_, MAER-Net Colloquium 2022, Kyoto University, Japan. 08/10/2022  
