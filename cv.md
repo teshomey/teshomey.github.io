@@ -65,8 +65,8 @@
 ---
 ### Selected conference presentations and invited talks
 - _Sample Size Calculations with R and G*Power_. 21/01/2026. [PPT](https://osf.io/j2ntx/files/xf546)
-- _Machine Learning with Applications in Python_ for Oromia Health Bureau staff (remote), Ethiopia. 11/10/2025
-- _A Gentle Introduction to Python_ for Oromia Health Bureau staff (remote), Ethiopia. 13/09/2025
+- _Machine Learning with Applications in Python_ for Oromia Health Bureau staff, Ethiopia. 11/10/2025
+- _A Gentle Introduction to Python_ for Oromia Health Bureau staff, Ethiopia. 13/09/2025
 - _Evaluation of methods used to detect selective reporting_, MAER-Net Colloquium 2022, Kyoto University, Japan. 08/10/2022  
 - _Low power and overrepresentation of statistically significant findings in the environmental sciences_, Mercator Research Institute on Global Commons and Climate Change, Berlin, Germany. 28/09/2022
 - _Selective reporting and statistical power in environmental science_, MAER-Net Colloquium 2021, University of Piraeus, Greece. 23/10/2021
