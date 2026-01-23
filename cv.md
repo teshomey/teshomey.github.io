@@ -49,7 +49,7 @@
   
 ---  
 ### Grant and funding 
-- 2016-2017: _Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia_ — **Principal Investigator**, Haramaya University (**70,000 ETB**)
+- 2016-2017: _Spatiotemporal Dynamics of Tuberculosis in East Hararge, Oromia Region, Ethiopia_ — PI, Haramaya University (**70,000 ETB**)
 
 ---
 ### Publications
