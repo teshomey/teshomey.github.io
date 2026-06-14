@@ -80,6 +80,7 @@
 - Supported undergraduate and postgraduate students on how to analyze data using R and SAS during my stay at Hasselt University and Haramaya University
 - Courses taught at Haramaya University (2010 - 2017):
    - _Applied Spatial Statistics_
+   - _Categorical Data Analysis_
    - _Time Series Analysis_
    - _Statistical Quality Control_
    - _Probability Theory_
