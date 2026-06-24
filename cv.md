@@ -4,11 +4,11 @@
 
 ### Experience
 - Postdoctoral Researcher | University of Coimbra, **Portugal** (06/2025 - Present)
-   - Classified research publications by combining metadata enrichment from OpenAlex with AI-driven text analysis techniques - [OpenAlexAI](https://github.com/teshomey/ai-assisted-text-classification) 
+   - Classified research publications by combining metadata enrichment from OpenAlex with AI-driven text analysis techniques ([OpenAlexAI](https://github.com/teshomey/ai-assisted-text-classification)) 
    - Applied Bayesian hierarchical Poisson modeling to assess the impact of journal policies on reducing inappropriate use of bar graphs for continuous data in biomedical research
    - Contributed to developing and validating an open-source R package for automated data extraction and classification
 - Data Curator & Analyst, Freelancer | FORRT, **Germany** (11/2024 - 09/2025)
-  - Extracted and coded data from 80+ published articles to expand research replication database - [FReD](https://forrt.org/apps/fred_explorer.html)
+  - Extracted and coded data from 80+ published articles to expand research replication database ([FReD](https://forrt.org/apps/fred_explorer.html))
   - Validated data entries from other coders to ensure accuracy
   - Carried out data analysis using R and prepared a detailed report
 - Postdoctoral Researcher | Hasselt University, **Belgium** (10/2024 - 05/2025)
