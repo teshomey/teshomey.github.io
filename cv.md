@@ -28,7 +28,7 @@
 - Assistant Professor of Statistics | Haramaya University, **Ethiopia** (02/2017 - 09/2017)
 - Lecturer | Haramaya University, **Ethiopia** (07/2013 - 02/2017)
   - Taught various statistics courses
-  - Developed a module for _Introduction to Statistics_ course ([Stat101](https://github.com/teshomey/intro_to_stat_hu/blob/main/Introduction%20to%20Statistics.pdf))
+  - Developed a module for _Introduction to Statistics_ course ([STAT101](https://raw.githubusercontent.com/teshomey/intro_to_stat_hu/main/Introduction%20to%20Statistics.pdf))
   - Published research in peer-reviewed journals on healthcare analytics and poverty analysis
   - Delivered professional training on R and SAS to researchers and industry stakeholders
 - Graduate Assistant | Haramaya University, **Ethiopia** (09/2009 - 07/2013)
