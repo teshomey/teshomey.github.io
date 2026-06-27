@@ -63,7 +63,7 @@
 7.  **Deressa, T.K.** 2012. Application of multilevel logistic model to identify correlates of poverty in Ethiopia. _East Afr. J. Sci._ 6(2): 137-146.
 
 ---
-### Selected conference presentations and invited talks
+### Selected conference presentations, invited talks, and others
 - Served as an external reviewer for the BSc Statistics curriculum at Wallaga University, Ethiopia. 15/06/2026. [Report](https://github.com/teshomey/curriculum_review_wu/blob/main/curriculum_review.pdf).
 - _Sample Size Calculations with R and G*Power_. 21/01/2026. [PPT](https://osf.io/j2ntx/files/xf546)
 - _Machine Learning with Applications in Python_ for Oromia Health Bureau staff, Ethiopia. 11/10/2025. [PPT](https://github.com/teshomey/machine_learning/blob/main/ML%20with%20Application%20in%20Python.pdf).
